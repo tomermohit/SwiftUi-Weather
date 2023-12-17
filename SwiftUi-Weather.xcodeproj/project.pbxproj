@@ -11,6 +11,7 @@
 		A67A37932B2B424E00E0E024 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A67A37922B2B424E00E0E024 /* ContentView.swift */; };
 		A67A37952B2B425000E0E024 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A67A37942B2B425000E0E024 /* Assets.xcassets */; };
 		A67A37982B2B425000E0E024 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A67A37972B2B425000E0E024 /* Preview Assets.xcassets */; };
+		A67A379F2B2B803500E0E024 /* BottomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A67A379E2B2B803500E0E024 /* BottomButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A67A37922B2B424E00E0E024 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A67A37942B2B425000E0E024 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A67A37972B2B425000E0E024 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A67A379E2B2B803500E0E024 /* BottomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A67A37902B2B424E00E0E024 /* SwiftUi_WeatherApp.swift */,
 				A67A37922B2B424E00E0E024 /* ContentView.swift */,
+				A67A379E2B2B803500E0E024 /* BottomButton.swift */,
 				A67A37942B2B425000E0E024 /* Assets.xcassets */,
 				A67A37962B2B425000E0E024 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A67A379F2B2B803500E0E024 /* BottomButton.swift in Sources */,
 				A67A37932B2B424E00E0E024 /* ContentView.swift in Sources */,
 				A67A37912B2B424E00E0E024 /* SwiftUi_WeatherApp.swift in Sources */,
 			);
